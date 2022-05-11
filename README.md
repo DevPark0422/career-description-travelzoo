@@ -1,10 +1,5 @@
 # 여행사람 직무기술서(Career Descriptions)
-## 프로필(Profile)
-
-- **이름(Name)**
-  - 박현호(Park HyunHo)
-
-- **직무경력(Career)**
+## 직무경력(Career)
   - (주)트레블쥬
   - 2017.02 ~ 12(약 1년)
   - 안드로이드 앱 개발, 유지 보수
