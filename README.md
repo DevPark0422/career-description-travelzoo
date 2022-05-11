@@ -1,4 +1,4 @@
-# 여행사람 직무기술서(Job Descriptions)
+# 여행사람 직무기술서(Career Descriptions)
 ## 프로필(Profile)
 
 - **이름(Name)**
